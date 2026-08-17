@@ -1,0 +1,14 @@
+# Run artifacts: they contain real file paths and embedded thumbnails of your own files.
+logs/
+*.csv
+*.html
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Windows
+Thumbs.db
+desktop.ini
