@@ -1,5 +1,7 @@
 # duplicate-file-finder-windows
 
+English: [README.en.md](README.en.md)
+
 **Windows用の重複ファイル検索・削除ツール** — Find and delete byte-identical duplicate files on Windows. Dry run by default, deletes to the Recycle Bin, works on any file type (images, videos, zip, documents).
 
 指定フォルダの配下を再帰的に走査し、**バイト単位で完全に同一のファイル**を見つけて、各グループから1件だけ残して残りをごみ箱へ送ります。画像に限らず、zip・動画・ドキュメントなど**種類を問わず**扱えます。
